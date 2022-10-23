@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jinho
-- 👀 I’m interested in NLP, Kernal, Graphics, Backend
+- 👀 I’m interested in NLP, Kernal, Graphics and Backend
 - 🌱 I’m currently learning Graphics
-- 💞️ I’m looking to collaborate on full stack project using NLP, JS
+- 💞️ I’m looking to collaborate on full stack project using NLP and JS(front and backend)
 - 📫 How to reach me 
      rancho974@gmail.com
 
