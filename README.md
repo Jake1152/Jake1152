@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, Kernel, Graphics and Backend
 - 🌱 I’m currently learning Graphics
 - 💞️ I’m looking to collaborate on full stack project using NLP and JS(front and backend)
-- 📫 How to reach me 
+- 📫 How to reach me ->
      rancho974@gmail.com
 
 <!---
