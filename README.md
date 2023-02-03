@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jinho
-- 👀 I’m interested in NLP, Kernel, Graphics and Backend
+- 👀 I’m interested in NLP, Kernel, Graphics and web full stack
 - 🌱 I’m currently learning socket programming
 - 💞️ I’m looking for collaborating on full stack project using NLP and JS(front and backend)
 - 📫 How to reach me ->
