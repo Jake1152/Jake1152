@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jinho
 - 👀 I’m interested in NLP, Kernel, Graphics and web full stack
-- 🌱 I’m currently learning socket programming
+- 🌱 I’m currently learning Web full stack(javascript, html, css, typescript, Node.js, NestJS, svelt, React, Next.js)
 - 💞️ I’m looking for collaborating on full stack project using NLP and JS(front and backend)
 - 📫 How to reach me ->
      rancho974@gmail.com
